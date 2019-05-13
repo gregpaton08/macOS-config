@@ -6,3 +6,6 @@ Steps for configuring a fresh install of macOS.
 ```
 brew install coreutils
 ```
+
+## sshfs
+https://github.com/osxfuse/osxfuse/wiki/SSHFS
