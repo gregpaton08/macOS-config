@@ -57,6 +57,14 @@ or check the [Homebrew site](https://brew.sh/) for the latest install method.
 brew install coreutils
 ```
 
+### Install python3
+```
+brew install python3
+```
+
+## sshfs
+https://github.com/osxfuse/osxfuse/wiki/SSHFS
+
 ## DNS for Work VPN
 
 If there are issues with DNS while on the work VPN then open System Preferences and navigate to Network. Select _Advanced_ and navigate to _DNS_. Set the DNS servers to 8.8.8.8 and 4.4.4.4 as displayed below.
