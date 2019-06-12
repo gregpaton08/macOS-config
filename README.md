@@ -68,6 +68,13 @@ brew install coreutils
 brew install python3
 ```
 
+### Install Octave
+Installation instructions are [here](https://wiki.octave.org/Octave_for_macOS).  
+Run the following command before opening the GUI for the first time.
+```
+rm .config/octave/qt-settings
+```
+
 ## sshfs
 https://github.com/osxfuse/osxfuse/wiki/SSHFS
 
