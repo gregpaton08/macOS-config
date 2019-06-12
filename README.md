@@ -43,6 +43,12 @@ On your phone go to the _Settings_ app and navigate to _Messages_. Select _Text 
 
 ![text message forwarding](images/text-message-forwarding.jpg)
 
+## Stop iTunes From Opening When Connecting iPhone
+
+Open _iTunes_ and open _Preferences_. Navigate to _Devices_ and select the checkbox shown below.
+
+![stop itunes from opening](images/do-not-open-itunes-when-connecting-iphone.png)
+
 ## Homebrew
 
 ### Install Homebrew
