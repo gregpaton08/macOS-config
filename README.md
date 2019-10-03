@@ -59,6 +59,7 @@ Run this command
 or check the [Homebrew site](https://brew.sh/) for the latest install method.
 
 ### Install coreutils
+Install GNU's `readlink` (`greadlink`), etc.
 ```
 brew install coreutils
 ```
