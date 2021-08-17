@@ -85,3 +85,12 @@ If there are issues with DNS while on the work VPN then open System Preferences 
 
 ![](images/set-dns-for-work-vpn-1.png)
 ![](images/set-dns-for-work-vpn-2.png)
+
+## Filemerge
+
+Alias Filemerge to Applications so that it's easy to access.
+
+```bash
+cd /Applications/
+ln -s Xcode.app/Contents/Applications/FileMerge.app/ .
+```
