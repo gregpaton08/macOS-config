@@ -52,11 +52,8 @@ Open _iTunes_ and open _Preferences_. Navigate to _Devices_ and select the check
 ## Homebrew
 
 ### Install Homebrew
-Run this command
-```
-/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
-```
-or check the [Homebrew site](https://brew.sh/) for the latest install method.
+
+Instructions [here](https://brew.sh/).
 
 ### Install coreutils
 Install GNU's `readlink` (`greadlink`), etc.
@@ -94,3 +91,7 @@ Alias Filemerge to Applications so that it's easy to access.
 cd /Applications/
 ln -s Xcode.app/Contents/Applications/FileMerge.app/ .
 ```
+
+## VSCode from Command Line
+
+Follow [this](https://code.visualstudio.com/docs/setup/mac#_launching-from-the-command-line) guide.
